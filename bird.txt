@@ -1,0 +1,2 @@
+ /c/Users/86187/.ssh/id_rsa.pub
+(/c/Users/86187/.ssh/id_rsa)
